@@ -189,12 +189,16 @@ p {
   position: absolute;
   font-size: 19rem;
   background: #fff;
-  color: #ff1066;
+  color: #ba2828;
   transform: rotate(2deg);
   -webkit-transform: rotate(2deg);
   -moz-transform: rotate(2deg);
   -ms-transform: rotate(2deg);
   -o-transform: rotate(2deg);
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .App {
   position: relative;

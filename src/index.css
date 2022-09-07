@@ -195,7 +195,6 @@ p {
   -moz-transform: rotate(2deg);
   -ms-transform: rotate(2deg);
   -o-transform: rotate(2deg);
-  padding: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
